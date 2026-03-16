@@ -2,11 +2,22 @@
   "name": "expressjs",
   "version": "1.0.0",
   "description": "Install ExpressJS",
+  "homepage": "https://github.com/darkz77/CLI-tools#readme",
+  "bugs": {
+    "url": "https://github.com/darkz77/CLI-tools/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkz77/CLI-tools.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.23"
   }
 }
